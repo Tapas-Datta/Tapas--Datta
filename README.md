@@ -41,4 +41,4 @@ An aspiring Data Analyst** focused on building data-driven solutions, designing 
 📫 Connect with me:
 - 💼 LinkedIn: [://linkedin.com](https://www.linkedin.com/in/tapas-datta-analyst/)
 - 📧 Email: taposdatta610@gmail.com
-- 📍 Location:** Messina, Italy
+- 📍 Location: Messina, Italy
