@@ -1,6 +1,6 @@
 📊 Hi there, I'm Tapas Datta! 
 
-An aspiring Data Analyst** focused on building data-driven solutions, designing interactive dashboards, and analyzing infrastructure. I love exploring complex datasets, finding hidden patterns, and telling stories through data.
+An aspiring Data Analyst focused on building data-driven solutions, designing interactive dashboards, and analyzing infrastructure. I love exploring complex datasets, finding hidden patterns, and telling stories through data.
 
 ---
 
